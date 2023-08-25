@@ -1,0 +1,22 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "This is a fictional travel website I am coding to practice Node Js and Express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MS1034/meadowlark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MS1034/meadowlark/issues"
+  },
+  "homepage": "https://github.com/MS1034/meadowlark#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
